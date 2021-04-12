@@ -2700,6 +2700,7 @@ textarea.form-control.is-invalid {
 
 .sendMessagebtn {
   color: white;
+  border: 1px solid transparent;
   -webkit-box-shadow: 0 0 0 2rem rgba(0, 123, 255, 0.5);
   box-shadow: 0 0 0 2rem rgba(0, 123, 255, 0.5);
 }
